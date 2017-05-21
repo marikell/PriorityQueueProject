@@ -18,7 +18,10 @@ namespace PriorityQueueTests
             list.Enqueue("789", 5);
             list.Enqueue("1020", 82);
             list.Enqueue("5615", 55);
-
+            list.Enqueue("26262", 22);
+            list.Enqueue("626262", 3);
+            list.Enqueue("2226", 5);
+            //siojdsiosdijosijode
             list.List();
             list.Dequeue();
             list.Enqueue("44554", 1);
