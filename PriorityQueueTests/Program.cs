@@ -22,6 +22,8 @@ namespace PriorityQueueTests
             list.Enqueue("626262", 3);
             list.Enqueue("2226", 5);
             //siojdsiosdijosijode
+            //wdwdwdwdwdwd
+            list.Enqueue("2222", 3);
             list.List();
             list.Dequeue();
             list.Enqueue("44554", 1);
